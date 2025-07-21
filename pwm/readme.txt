@@ -1,3 +1,2 @@
-pwm (password manager) is a python script capable of analyzing and storing passwords. It contains modules for storing in plaintext, hashed, or encrypted formats, analyzing passwords for common weaknesses as well checking if they
-have been compromised in a data breach using the HaveIBeenPwned API, as well as a simple password generator.
+pwm (password manager) is a Python script capable of generating, strength-testing, and storing passwords. It leverages the HaveIBeenPwned API to test for breaches and performs basic strength checks by looking for specific character groups and length. PWM can store credentials in "vaults" which are encrypted folders containing the output files. By default PWM will analyze the password you specify, or one can be generated using "-g"
 

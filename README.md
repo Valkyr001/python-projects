@@ -1,1 +1,1 @@
-Contains Python tools and projects I have developed in my spare time. :)
+Public repository for Python projects and tools I have written in my spare time. :)
